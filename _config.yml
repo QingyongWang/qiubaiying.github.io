@@ -1,13 +1,13 @@
 # Site settings
 title: Qingyong homepage
-SEOTitle: 王庆勇的博客 | Qingyong Blog
+SEOTitle: Qingyong Blog
 header-img: img/post-bg-desk.jpg
 email: wqyjiu@gmail.com
 description: "Every failure is leading towards success."
-keyword: "Qingyong, AI, Machine learning, data mining, big data, iOS, Apple, iPhone"
+keyword: "Qingyong, AI, Machine learning, data mining, big data"
 url: "http://qingyongwang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qingyongwang/qiubaiying.github.io.git" # you code repository
+github_repo: "https://wang.finlab.cn" #github.com/qingyongwang/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -105,10 +105,10 @@ friends: [
         title: "简书",
         href: "http://www.jianshu.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "scholar all",
+        href: "http://x.finlab.cn"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "搜索大全",
+        href: "http://www.so.finlab.cn/"
     }
 ]
