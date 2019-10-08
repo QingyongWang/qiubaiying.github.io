@@ -1,50 +1,17 @@
 <h4>About Me:</h4> 
-	
-		<!--Biography   I am Phd student in Computer (Management) Science and Engineering (Ranking A+ in newest China University Subject Rankings (CUSR) from MoE ) at National University of Defence Technology of PLA.-->
-	
 		
  I received M.Sc. and B.Eng. degrees both in Computer Science and Technology. My research falls in the field of data mining and machine learning. I am interested in exploring and exploiting the big data for both building understanding and user modeling. The very recent works focus on integrate biometrics and data mining applications. </p>
 
-			    <!--p class="paragraph_style_2">
-				, i.e., to connect the different data to building model for forecast
-				I has authored or co-authored 10+ papers in journals of intelnational and mainland. I am associate editor in Neurocomputing, guest editor in Multimedia System Journal, Multimedia Tools and Applications. I have served as program co-chair in PCM 2015, ICIMCS 2015, publicity chair in MMM 2015, publication chair in ICIMCS 2013, 2014, special session organizer in ICME2015, MMM2013, ICIMCS 2013, and program committee member in 10+ conferences (MM2013, MM2014, CIKM2014, etc.). I am tutorial speaker at ACM Multimedia (2014&amp;2015), ACM ICMR 2015, ICME 2015 and MMM 2015. I am member of IEEE, ACM and CCF.
-			    </p-->
-			    
-Sencond author, Descriptor Selection Improvements for Quantitative Structure-activity Relationships, International Journal of Neural Systems(Top journal, 中科院分区一区), Vol. 29, No. 8, 2019 <a href="https://doi.org/10.1142/S0129065719500163">doi</a>). <p>
-First author, Semi-supervised learning with ensemble self-training for cancer classification，The 15th IEEE International Conference on Ubiquitous Intelligence and Computing (IEEE UIC 2018), Guangzhou, China, October  8-12, 2018. (CCF recommended Class C)(<a href="http://doi.org/10.1109/SmartWorld.2018.00149">doi</a>)
+
+<h4>Publication:</h4> 			    
+ <p>&diams;Sencond author, Descriptor Selection Improvements for Quantitative Structure-activity Relationships, International Journal of Neural Systems(Top journal, 中科院分区一区), Vol. 29, No. 8, 2019 <a href="https://doi.org/10.1142/S0129065719500163">doi</a>). <p>
+ <p>&diams;First author, Semi-supervised learning with ensemble self-training for cancer classification，The 15th IEEE International Conference on Ubiquitous Intelligence and Computing (IEEE UIC 2018), Guangzhou, China, October  8-12, 2018. (CCF recommended Class C)(<a href="http://doi.org/10.1109/SmartWorld.2018.00149">doi</a>)
 			 <p>&diams; First author, Data Analysis on Video Streaming QoE over Mobile Networks, EURASIP Journal on Wireless Communications and Networking, SCI IF=2.42, July, 2018 (<a href="https://doi.org/10.1186/s13638-018-1180-8">doi</a>).
 			 <p>&diams; First author, Data-Driven QoE Analysis on Video Streaming in Mobile Networks, The 15th IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA 2017) Guangzhou, China, December 12-15, 2017. (CCF recommended Class C)(<a href="https://ieeexplore.ieee.org/abstract/document/8367398/">doi</a>)
 			 <p>&diams;  First author, A Smart MCDM Framework to Evaluate Impact of Air Pollution on City Sustainability: A Case Study from China, Sustainability, SCI IF=2.02, May 2017, 9(6), 911(<a href="http://www.mdpi.com/2071-1050/9/6/911">doi</a>). <p>
 			 
 			  
-
-	 <p>
-<!--   <p>&diams;  First author, An adaptive sampling in imbalanced cancer data classification via Ensemble Self-paced Learning, submitted. <p>	&diams; Corresponding author, Water Quality Evaluation via Ensemble Multi-model, WATER SCIENCE AND TECHNOLOGY, SCI, submitted).		
-			
-			  <p--><span lang="EN-US">&diams; First author, The air pollution impact on social and economic development of Wuhan city, Journal of Northern Trade (ISSN: 1008-913x),  No.1, 2014.</span>本文荣获中国平安励志计划奖、湖北省大学生优秀成果奖。</p><p>
-		
-			  <!-- p><span lang="EN-US">&diams;   Analysis and Discussion on Boiler Operating Parameters under Efficiency Perspective,  The  Value  Engineering   (ISSN: 1006-4311),  No.5, 2014;</span></p!-- >
-			  <p><span lang="EN-US">&diams;   	Research of agricultural non-point source pollution based on Zhejiang province,Journal of Canglong, No.6, 2013.</span></p>
-			  <p><span lang="EN-US">&diams;  	Discussion of stock returns and risk of investment portfolio problem, Journal of Canglong, No.1, 2014.</span></p>
-			  <!-- p><span lang="EN-US">&diams;   Research trade  in the US-China  based - comparative advantage   theory ,  Journal of Hubei University of Economics(Humanities and Social Sciences)(ISSN:1671-0975) , No. 10, 2015.</span></p!-->
-		        <p>&diams;co-author, Financial Risk Analysis based on muti-mathematical models, Conference of Economic Symposium in Hubei Privice, Wuhan University of Technology, 2014<p>
-        
-     <!--    &diams; Farmer known extent of Internet banking and risk analysis-based on questionnaire data Xinghua 416 households,  "Export Bank" Cup summer social practice essay in China, 2014.!--> 
-        	  <p>&diams;<span lang="EN-US"> Bachelor thesis: Data mining and analysis based on artificial intelligence to  Cunjinbao's big data.</span></p>
-             <p>&diams;<span lang="EN-US"> Master thesis: Semi-supervised learning method with ensemble self-training for Cancer Classification</span></p>
-</p>
-
-
-		  </div>
-				</div>
-				</div>		
-     			<h4>Selected Project:</h4> 	
-				<p>
-<div class="container">
-		 <a name="project"></a>  
-	
-		<div id="experience">
-		<div class="row">			
+ 	
 			<div class="span10">
 			<B>In 2014s  The Ministry of Education National Undergraduate Training Programs for Innovation and Entrepreneurship </B><br>
 Topic name: Intelligent Investment Model based on Big Data Analysis（201411600003）<br>
