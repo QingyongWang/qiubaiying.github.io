@@ -10,8 +10,8 @@
 				I has authored or co-authored 10+ papers in journals of intelnational and mainland. I am associate editor in Neurocomputing, guest editor in Multimedia System Journal, Multimedia Tools and Applications. I have served as program co-chair in PCM 2015, ICIMCS 2015, publicity chair in MMM 2015, publication chair in ICIMCS 2013, 2014, special session organizer in ICME2015, MMM2013, ICIMCS 2013, and program committee member in 10+ conferences (MM2013, MM2014, CIKM2014, etc.). I am tutorial speaker at ACM Multimedia (2014&amp;2015), ACM ICMR 2015, ICME 2015 and MMM 2015. I am member of IEEE, ACM and CCF.
 			    </p-->
 			    
-  Sencond author, Descriptor Selection Improvements for Quantitative Structure-activity Relationships, International Journal of Neural Systems(Top journal, 中科院分区一区), Vol. 29, No. 8, 2019 <a href="https://doi.org/10.1142/S0129065719500163">doi</a>). <p>
-			 <p>&diams; First author, Semi-supervised learning with ensemble self-training for cancer classification，The 15th IEEE International Conference on Ubiquitous Intelligence and Computing (IEEE UIC 2018), Guangzhou, China, October  8-12, 2018. (CCF recommended Class C)(<a href="http://doi.org/10.1109/SmartWorld.2018.00149">doi</a>)
+Sencond author, Descriptor Selection Improvements for Quantitative Structure-activity Relationships, International Journal of Neural Systems(Top journal, 中科院分区一区), Vol. 29, No. 8, 2019 <a href="https://doi.org/10.1142/S0129065719500163">doi</a>). <p>
+First author, Semi-supervised learning with ensemble self-training for cancer classification，The 15th IEEE International Conference on Ubiquitous Intelligence and Computing (IEEE UIC 2018), Guangzhou, China, October  8-12, 2018. (CCF recommended Class C)(<a href="http://doi.org/10.1109/SmartWorld.2018.00149">doi</a>)
 			 <p>&diams; First author, Data Analysis on Video Streaming QoE over Mobile Networks, EURASIP Journal on Wireless Communications and Networking, SCI IF=2.42, July, 2018 (<a href="https://doi.org/10.1186/s13638-018-1180-8">doi</a>).
 			 <p>&diams; First author, Data-Driven QoE Analysis on Video Streaming in Mobile Networks, The 15th IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA 2017) Guangzhou, China, December 12-15, 2017. (CCF recommended Class C)(<a href="https://ieeexplore.ieee.org/abstract/document/8367398/">doi</a>)
 			 <p>&diams;  First author, A Smart MCDM Framework to Evaluate Impact of Air Pollution on City Sustainability: A Case Study from China, Sustainability, SCI IF=2.02, May 2017, 9(6), 911(<a href="http://www.mdpi.com/2071-1050/9/6/911">doi</a>). <p>
@@ -181,30 +181,3 @@ Graded quizzes and assignments .
 
 
 
-		<!--/div>
-		</div>
-		</div!-->
-<br>
-<a name="link"></a>
-		<div id="service">
-		<div class="row">
-		<div class="span10">
-		<h4>Link:</h4> 
-		<!--a href="http://www.hongning.org" target="_black">Henry Dai</a>&nbsp;&nbsp;&nbsp;&nbsp;
-		
-		
-		<a href="http://www.hebmlc.org/en" target="_black">Xizhao Wang</a-->
-<p class="paragraph_style_7"><br></p>
-<hr>
-<p align="left"><font face="Times New Roman"><i>Last Modified: &nbsp;May. 10, 2019</i></font></p>
-<p>&nbsp;</p>		
-		</div>
-		</div>
-		</div>
-
-
-    <br><br>
-
-
-
-</div></div>
