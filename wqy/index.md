@@ -1,86 +1,16 @@
-<div class="navbar navbar-inverse navbar-fixed-top">
-  <div class="navbar-inner">
-    <div class="container">
-      <!--button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <!--<a class="brand" href="index.html">Jitao Sang</a>-->
-      <!--div class="nav-collapse collapse"!-->
-        <ul class="nav">
-       <li class="active"><a href="./index.html"><h4>Home</h4></a></li>
-			 <li><a href="./index.html#publication"><h4>Publication</h4></a></li>
-			<li><a href="./index.html#project"><h4>Project</h4></a></li>
-			 <li><a href="./index.html#exper"><h4>Experience</h4></a></li>
-			 <li><a href="./index.html#award"><h4>Award</h4></a></li>
-			 <li><a href="./index.html#service"><h4>Service</h4></a></li>
-			 <li><a href="./index.html#link"><h5>Friendly Link</h5></a></li>
-			
-        </ul>
-      </div> 
-    <!--/div!-->
-  </div>
-</div><br><br> 
-
-		<!--Head line-->
-		<header class="jumbotron subhead ">
-		<div class="container">
-		<div class="row">
-			<div class="span2">
-					<img src="qywang.jpg" width="125" id="icon_logo"><br></a>
-			</div>
-			<div class="span4">	
-					  <h3>Qingyong Wang <span class="lead">(王庆勇)</span></h3>
-						<!--h5></h5>
-						<a href="http://www.must.edu.mo/en/fi-en/fi-faculty-introduction" target="_black">Computer and Information Systems</a><br>
-						<a href="http://www.must.edu.mo/en/about-must-en/must-introduction" target="_black"> Macau University of Science and Technology</a-->	
-		  </div>
-			<div class="span5">
-				<br><br><br><br>
-				<!--address>Current Address<br>
-				
-No.8 Yangqiaohu Ave.,Jiangxia District,Wuhan,P.R.China 430205<br></address-->
-				<abbr title="Email">Email:</abbr> &nbsp; <a href="mailto:wang@cnu.ac.cn">wang@cnu.ac.cn</a><br>
-				alternatively &nbsp; &nbsp; <a href="mailto:qiyowa@gmail.com">qiyowa@gmail.com</a>
-				<!--    Link to my CV: [<a href="./index/ata/Jitao_CV-20150126-website.pdf">pdf</a>]-->
-			</div>
-		</div>
-	  </div>
-		</header>
-	
-	<a name="Biography"></a>
-<div class="container">
+<h4>About Me:</h4> 
 	
 		<!--Biography   I am Phd student in Computer (Management) Science and Engineering (Ranking A+ in newest China University Subject Rankings (CUSR) from MoE ) at National University of Defence Technology of PLA.-->
 	
-		<h4>About Me:</h4> 
-		<div id="biograhpy">
-		<div class="row">			
-			<div class="span10">
-			<p class="paragraph_style_2">	
-			 I received M.Sc. and B.Eng. degrees both in Computer Science and Technology. 
-			My research falls in the field of data mining and machine learning. I am interested in exploring and exploiting the big data for both building understanding and user modeling. The very recent works focus on integrate operations and data mining applications. </p>
-			<!--My master of philosophy is expected at July 2018.-->
- </div> </div> </div>
- <p>
- 
+		
+ I received M.Sc. and B.Eng. degrees both in Computer Science and Technology. My research falls in the field of data mining and machine learning. I am interested in exploring and exploiting the big data for both building understanding and user modeling. The very recent works focus on integrate biometrics and data mining applications. </p>
+
 			    <!--p class="paragraph_style_2">
 				, i.e., to connect the different data to building model for forecast
 				I has authored or co-authored 10+ papers in journals of intelnational and mainland. I am associate editor in Neurocomputing, guest editor in Multimedia System Journal, Multimedia Tools and Applications. I have served as program co-chair in PCM 2015, ICIMCS 2015, publicity chair in MMM 2015, publication chair in ICIMCS 2013, 2014, special session organizer in ICME2015, MMM2013, ICIMCS 2013, and program committee member in 10+ conferences (MM2013, MM2014, CIKM2014, etc.). I am tutorial speaker at ACM Multimedia (2014&amp;2015), ACM ICMR 2015, ICME 2015 and MMM 2015. I am member of IEEE, ACM and CCF.
 			    </p-->
- 
- <a name="publication"></a>
-		<!--Selective Publications-->
-	
-		<div id="selective pub">
-		<div class="row">
-		<div class="span10">
-		<h4>Selected Publications</h4>
-			
-		<ul>
-			<li>
-			<p>&diams;  Sencond author, Descriptor Selection Improvements for Quantitative Structure-activity Relationships, International Journal of Neural Systems(Top journal, 中科院分区一区), Vol. 29, No. 8, 2019 <a href="https://doi.org/10.1142/S0129065719500163">doi</a>). <p>
+			    
+  Sencond author, Descriptor Selection Improvements for Quantitative Structure-activity Relationships, International Journal of Neural Systems(Top journal, 中科院分区一区), Vol. 29, No. 8, 2019 <a href="https://doi.org/10.1142/S0129065719500163">doi</a>). <p>
 			 <p>&diams; First author, Semi-supervised learning with ensemble self-training for cancer classification，The 15th IEEE International Conference on Ubiquitous Intelligence and Computing (IEEE UIC 2018), Guangzhou, China, October  8-12, 2018. (CCF recommended Class C)(<a href="http://doi.org/10.1109/SmartWorld.2018.00149">doi</a>)
 			 <p>&diams; First author, Data Analysis on Video Streaming QoE over Mobile Networks, EURASIP Journal on Wireless Communications and Networking, SCI IF=2.42, July, 2018 (<a href="https://doi.org/10.1186/s13638-018-1180-8">doi</a>).
 			 <p>&diams; First author, Data-Driven QoE Analysis on Video Streaming in Mobile Networks, The 15th IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA 2017) Guangzhou, China, December 12-15, 2017. (CCF recommended Class C)(<a href="https://ieeexplore.ieee.org/abstract/document/8367398/">doi</a>)
