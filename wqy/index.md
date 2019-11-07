@@ -5,7 +5,7 @@
 
 <h4>Publication:</h4> 	
  <p>&diams;First author, Random forest with self-paced bootstrap learning in lung cancer prognosis, ACM Transactions on Multimedia Computing Communications and Applications(CCF B journal, JCR1区), Vol. 29, No. 8, 2020 (<a href="https://doi.org/10.1142/S0129065719500163">doi</a>). <p>
-	 <p>&diams;Third author, Vulnerability Severity Prediction With Deep Neural Network, 2019 5th IEEE International Conference on Big Data and Information Analytics (BigDIA), 2019 (<a href="http://ieeexplore.ieee.org/abstract/document/8802851a">doi</a>). <p>
+	 <p>&diams;Third author, Vulnerability Severity Prediction With Deep Neural Network, 2019 5th IEEE International Conference on Big Data and Information Analytics (BigDIA), 2019 (<a href="http://ieeexplore.ieee.org/abstract/document/8802851">doi</a>). <p>
  <p>&diams;Sencond author, Descriptor Selection Improvements for Quantitative Structure-activity Relationships, International Journal of Neural Systems(Top journal, 中科院分区一区), Vol. 29, No. 8, 2019 (<a href="https://doi.org/10.1142/S0129065719500163">doi</a>). <p>
  <p>&diams;First author, Semi-supervised learning with ensemble self-training for cancer classification，The 15th IEEE International Conference on Ubiquitous Intelligence and Computing (IEEE UIC 2018), Guangzhou, China, October  8-12, 2018. (CCF recommended Class C)(<a href="http://doi.org/10.1109/SmartWorld.2018.00149">doi</a>)
 			 <p>&diams; First author, Data Analysis on Video Streaming QoE over Mobile Networks, EURASIP Journal on Wireless Communications and Networking, SCI IF=2.42, July, 2018 (<a href="https://doi.org/10.1186/s13638-018-1180-8">doi</a>).
