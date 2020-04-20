@@ -276,4 +276,10 @@ reset:function(){var t,e;for(t in this.series)for(e=0;e<this.series[t].length;e+
 
 }(window, document)); /* end IIFE */
 
+<script type="text/javascript">
+ 
+          function showHideCode(){
+             $("#showdiv").toggle();
+          }
+</script>
                             
