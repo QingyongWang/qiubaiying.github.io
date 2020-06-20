@@ -6,11 +6,18 @@
 <h4>Publication:</h4> 	
 <p>&diams;  First author,  Adaptive Sampling Using Self-paced Learning for Imbalanced Cancer Data Pre-diagnosis, Expert Systems with Applications(中科院二区TOP, CCF C journal, JCR1区), SCI IF=4.292, May 2020 (<a href="https://doi.org/10.1016/j.eswa.2020.113334">doi</a>). <p>
 			<p>&diams;  First author, Random forest with self-paced bootstrap learning in lung cancer prognosis, ACM Transactions on Multimedia Computing Communications and Applications(CCF B journal, JCR1区), SCI IF=2.87,  2020(<a href="https://doi.org/10.1145/3345314">doi</a>). 
-        <div>
-           我是展示的第一部分
-           <div id = "showdiv" style="display:none;">我是隐藏的那部分</div>
-           <a href="#" onclick="showHideCode()">查看更多</a>
-        </div>
+        <button type="button" class="btn btn-download btn-download-bibtex" data-toggle="modal" data-target="#bibtexModel" data-content="
+@article{tong2019two,
+  title={Two-sided Online Micro-Task Assignment in Spatial Crowdsourcing},
+  author={Tong, Yongxin and Zeng, Yuxiang and Ding, Boling and Wang, Libin and Chen, Lei},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2019},
+  doi = {10.1109/TKDE.2019.2948863},
+  publisher={IEEE}
+}">
+                                        <span class="icon-bibtex icon"></span>BibTex
+                                    </button>
+
 <p>
 			<p>&diams;  Third author, Identifying vital nodes in complex networks by adjacency information entropy, Scientific Reports, SCI IF=4.011, February 2020, 10(1): 1-12.(<a href="https://www.nature.com/articles/s41598-020-59616-w">doi</a>). <p>&diams;Third author, Vulnerability Severity Prediction With Deep Neural Network, 2019 5th IEEE International Conference on Big Data and Information Analytics (BigDIA), 2019 (<a href="http://ieeexplore.ieee.org/abstract/document/8802851">doi</a>)(<a href="./08802851.pdf">PDF</a>). <p>
  <p>&diams;Sencond author, Descriptor Selection Improvements for Quantitative Structure-activity Relationships, International Journal of Neural Systems(Top journal, 中科院分区一区), Vol. 29, No. 8, 2019 (<a href="https://doi.org/10.1142/S0129065719500163">doi</a>). <p>
